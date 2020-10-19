@@ -4272,7 +4272,7 @@
 			}
 
 		}
-
+ 
 /* Footer */
 
 	#footer {
@@ -4296,6 +4296,10 @@
 			padding: 0;
 			text-align: center;
 		}
+ 
+               #footer img {
+                       margin: 2rem;
+               } 
 
 		@media screen and (max-width: 736px) {
 
